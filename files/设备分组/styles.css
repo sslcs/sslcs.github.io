@@ -5225,16 +5225,12 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:140px;
-  height:36px;
+  width:98px;
+  height:28px;
   background:inherit;
   background-color:rgba(22, 155, 213, 1);
   border:none;
-  border-radius:5px;
-  border-top-left-radius:0px;
-  border-top-right-radius:0px;
-  border-bottom-right-radius:0px;
-  border-bottom-left-radius:0px;
+  border-radius:3px;
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
@@ -5244,15 +5240,15 @@
   position:absolute;
   left:250px;
   top:106px;
-  width:140px;
-  height:36px;
+  width:98px;
+  height:28px;
 }
 #u2809_text {
   border-width:0px;
   position:absolute;
   left:2px;
-  top:10px;
-  width:136px;
+  top:6px;
+  width:94px;
   word-wrap:break-word;
 }
 #u2810 {
