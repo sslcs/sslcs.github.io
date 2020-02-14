@@ -89,7 +89,7 @@
   background:inherit;
   background-color:rgba(22, 155, 213, 1);
   border:none;
-  border-radius:5px;
+  border-radius:3px;
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
@@ -120,7 +120,7 @@
   background:inherit;
   background-color:rgba(255, 102, 102, 1);
   border:none;
-  border-radius:5px;
+  border-radius:3px;
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
@@ -350,7 +350,7 @@
   background:inherit;
   background-color:rgba(22, 155, 213, 1);
   border:none;
-  border-radius:5px;
+  border-radius:3px;
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
@@ -3963,7 +3963,7 @@
   left:0px;
   top:0px;
   width:49px;
-  height:19px;
+  height:24px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -3980,9 +3980,9 @@
   border-width:0px;
   position:absolute;
   left:1807px;
-  top:16px;
+  top:13px;
   width:49px;
-  height:19px;
+  height:24px;
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
@@ -3992,7 +3992,7 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:0px;
+  top:2px;
   width:49px;
   white-space:nowrap;
 }
